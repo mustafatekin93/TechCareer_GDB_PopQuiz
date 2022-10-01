@@ -1,0 +1,12 @@
+6x3=?;18;5;12;25;30
+5x7=?;35;27;16;36;32
+a=4: <br>b=2:  <br>if(___){ print(''dogru''):} <br><br>ekrana ''dogru'' yazilmasi icin ___ yere ne gelmelidir?;a>b;a<b;a==b;a<=b;
+f(2) = 4 ise          f(x) ne olabilir?;x^2;5x-2;2(x-1);;
+5x+7=12         x=?;1;3;2;;
+7x-3=11          x=?;2;1;3;4;
+for(int i =0 i<=5 i++)<br>{ println(''Hello World''):} <br>kodu ile ekrana kac defa ''Hello World'' yazilir?;6;5;4;7;3
+A veya B operandinin gosterimi hangisinde dogrudur?;A||B;A&B;A<>B;A!=B;
+Doktorunuz size 3 hap verdi ve bunlari yarimsar saat ara ile almanizi soyledi. Haplarin tamamini bitirmeniz ne kadar sure alir?;1 saat;1,5 saat;0,5 saat;2 saat;20 dk
+30'u yarima bolup 5 eklerseniz sonuc ne olur?;65;20;35;45;
+f(x)=2^x         f(2)^2=?;16;32;4;8;64
+X, Y'ye esit degil ise ifadesinin gosterimi nasildir;X!=Y;X<<Y;Y-=X;Y&&X;Y||X
